@@ -1,0 +1,18 @@
+/* canvas {
+    border: 1px solid black;
+} */
+
+body {
+    background-color: black;
+}
+
+canvas {
+    background-color: aliceblue;
+    position: fixed;
+    inset: 0px;
+    width: fit-content;
+    height: fit-content;
+    /* max-width: 100vw;
+    max-height: 100dvh; */
+    margin: auto;
+}
